@@ -1,0 +1,16 @@
+  415  git branch firstbranch
+  416  git branch
+  417  git checkout firstbranch
+  418  git branch
+  419  echo hi > test.txt
+  420  ls
+  421  cat test.txt
+  422  echo pradeep
+  423  echo pradeep > test.txt
+  424  cat test.txt
+  425  echo testing >> text.txt
+  426  echo testing >> test.txt
+  427  cat test.txt
+  428  rm text.txt
+  429  clear
+  430  history
